@@ -3,10 +3,3 @@
   "outputDirectory": "dist/public",
   "installCommand": "npm install"
 }
-```
-
-Kaydet ve commit et. Vercel otomatik yeniden deploy edecek.
-
-**Sonra test edeceğiz:**
-```
-https://marzban-podpiska.vercel.app/api/sub/SENIN_TOKEN
